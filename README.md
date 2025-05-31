@@ -33,11 +33,5 @@ Cyclogenesis—the formation of cyclones—is a significant climate event, espec
 
 ---
 
-## 🚀 Getting Started
 
-### 🔧 Installation
-
-Clone the repository:
-
-```bash
 
